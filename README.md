@@ -12,6 +12,7 @@
 
 <br/>
 
-##  criado buscando o baixo acoplamento e alta coesão, separando as consultas das inserções e alterações, para evitar sobrecarga no banco de dados, e mais velocidade dos dados.
+##  Projeto criado buscando o baixo acoplamento e alta coesão, separando as consultas das inserções e alterações, para evitar sobrecarga no banco de dados, e mais velocidade dos dados.
+
 
 
